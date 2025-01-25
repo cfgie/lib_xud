@@ -5,3 +5,5 @@ project(lib_xud_examples)
 # Main example
 add_subdirectory(app_hid_mouse)
 
+add_subdirectory(app_cdc_vcp)
+
